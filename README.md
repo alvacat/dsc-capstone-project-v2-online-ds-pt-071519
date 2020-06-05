@@ -3,6 +3,7 @@
 ## Table of Contents
 - Blog: [The Magic of Collaboration](https://alvacat.github.io/the_magic_of_collaboration)
 - YouTube Code walkthrough: [https://youtu.be/E4MOJo-usHc](https://youtu.be/E4MOJo-usHc)
+- Data: [MTGJSON](https://mtgjson.com/downloads/all-files/): I used the AllPrintings SQLite file for this project.
 - This very repository!
  - readme.md: This very file!  Gives an overview of the project and its components.
  - images: This folder contains the images used in this project. (Spoiler: It’s 99% Magic cards.)
